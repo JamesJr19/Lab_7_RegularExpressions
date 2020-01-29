@@ -1,0 +1,11 @@
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\bin\Debug\netcoreapp2.1\Lab7-RegularExpressions.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\bin\Debug\netcoreapp2.1\Lab7-RegularExpressions.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\bin\Debug\netcoreapp2.1\Lab7-RegularExpressions.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\bin\Debug\netcoreapp2.1\Lab7-RegularExpressions.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\bin\Debug\netcoreapp2.1\Lab7-RegularExpressions.pdb
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\obj\Debug\netcoreapp2.1\Lab7-RegularExpressions.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\obj\Debug\netcoreapp2.1\Lab7-RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\obj\Debug\netcoreapp2.1\Lab7-RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\obj\Debug\netcoreapp2.1\Lab7-RegularExpressions.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\obj\Debug\netcoreapp2.1\Lab7-RegularExpressions.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab7-RegularExpressions\Lab7-RegularExpressions\obj\Debug\netcoreapp2.1\Lab7-RegularExpressions.pdb
